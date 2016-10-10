@@ -10,7 +10,7 @@ y-nobuke@ist.osaka-u.ac.jp
 
 
 ***
-## [第1回演習課題](https://github.com/handai-trema/hello-trema-trema-nobu/)
+## [第1回演習課題](https://github.com/handai-trema/hello-trema-trema-nobu/blob/master/report_1.md)
 
 - スイッチ切断時のイベントを行う
 - クラス名を出力する
